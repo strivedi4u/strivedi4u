@@ -22,21 +22,21 @@ I have learned web-development and having knowledge of HTML,CSS & Javascript and
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
- <img alt="TensorFlow" src="https://img.shields.io/badge/Eclipse-FF6F00?style=for-the-badge&logo=Eclipse&logoColor=white" />
+ <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FF6F00?style=for-the-badge&logo=Eclipse&logoColor=white" />
  <img alt="scikit learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  
- <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+ <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-D00000?style=for-the-badge&logo=NetBeanss&logoColor=white" />
  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
- <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+ <img alt="Oracle" src="https://img.shields.io/badge/Oracle-339933?style=for-the-badge&logo=Oracle&logoColor=white" />
+    <img alt="DialogFlow" src="https://img.shields.io/badge/DialogFlow-CB3837?style=for-the-badge&logo=dialogflow&logoColor=white" />
+    <img alt="JavaSwing" src="https://img.shields.io/badge/JavaSwing-000000?style=for-the-badge&logo=javaswing&logoColor=white" />
+    <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-27338e?style=for-the-badge&logo=Notepad++&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-    <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-326ce5.svg?&style=for-the-badge&logo=aws&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
