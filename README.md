@@ -94,8 +94,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trivedi2u&theme=dark" alt="ShashankTrivedi" /></p>
   </div>
 
- [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/SauravMukherjee44)
+ [![trivedi2u's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=trivedi2u&theme=xcode)](https://git.io/trivedi2u)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/trivedi2u.svg?style=social&label=Follow)](https://github.com/trivedi2u?tab=followers)
