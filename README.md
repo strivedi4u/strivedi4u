@@ -52,7 +52,6 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <h1 align="center">Projects</h1>
 
 
-
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://trivedi2u.github.io/portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
