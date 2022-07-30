@@ -91,7 +91,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trivedi2u&theme=dark" alt="ShashankTrivedi" /></p>
+
   </div>
 
  [![trivedi2u's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=trivedi2u&theme=xcode)](https://git.io/trivedi2u)
