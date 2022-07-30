@@ -2,10 +2,9 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/strivedi4u" target="_blank"> Shashank Trivedi </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> from Asansol Engineering College, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
-I'm Shashank and I'm a Programming Enthusiast.
-Programming always fascinates me . I am working in this field for almost 2 years .and have earned a lot of experience . Currently I am Seeking a challenging position in a reputed organization .where I can learn new skills, expand my knowledge, and leverage my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth..
+I'm <b>Shashank Trivedi </b>and I'm a <b>Programming Enthusiast</b>.
+Programming always fascinates me . I am working in this field for almost 2 years .and have earned a lot of experience . Currently I am Seeking a challenging position in a reputed organization .where I can learn new skills, expand my knowledge, and leverage my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth..⚡
 <h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
