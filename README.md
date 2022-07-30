@@ -56,10 +56,10 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [My Portfolio Website](https://trivedi2u.github.io/portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [Weather Finder Web Application](https://trivedi2u.github.io/weatherfinder/)   | Weather Finder Web Application. 
-| [Chat-Bot](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [Tic-Tac-Toe](https://trivedi2u.github.io//tictatoe)     | Classify emails as spam or not-spam on the basis of the message.
-| [Game](https://trivedi2u.github.io/game)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
+| [Weather Finder Web Application](https://trivedi2u.github.io/weatherfinder/)   | Weather Finder Web Application build using ReactJs and JavaScipt. 
+| [Chat-Bot](https://trivedi2u.github.io/chatBot)     | Data Science Chat-Bot Web Application build using DialogFlow and HTML, CSS and JavaScript.
+| [Tic-Tac-Toe](https://trivedi2u.github.io//tictatoe)     | Tic-Tac-Toe Game build using HTML, CSS and JavaScript.
+| [Game](https://trivedi2u.github.io/game)     |  Number Gassing Game and Toss game build using HTML, CSS and JavaScript.
 
 
  <h1 align="center">Let's Get Connected</h1>
