@@ -65,13 +65,15 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <div align="center">
 
-<a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-<a  href="https://www.instagram.com/mesouravofficial/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a  href="https://www.linkedin.com/in/strivedi4u" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/LinkedIn-%23FF0000.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a  href="https://www.GitHub.com/trivedi2u/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub%20-%230077B5.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a  href="https://www.trivedi2u.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white">
+   </a>
+<a href="https://www.hackerrank.com/shashank_trivedi?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2300acee.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&alt=hackerrank" /></a>
+<a href="https://leetcode.com/strivedi4u/"><img  alt="LeetCode" src="https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" />
+<a  href="https://www.codechef.com/users/shashank4u"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-2CA5E0?style=for-the-badge&logo=codechef&logoColor=white"></a>
+<a  href="https://docs.microsoft.com/en-us/users/shashankkumartrivedi/"><img alt="Azure" src="https://img.shields.io/badge/Azure-7289DA?style=for-the-badge&logo=azure&logoColor=white">
+<a  href="https://www.cloudskillsboost.google/public_profiles/a3c348e0-5555-4a78-b374-4e66b8aaae16/"><img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-E4405F?style=for-the-badge&logo=qwiklabs&logoColor=white">
    </a>
 
    
