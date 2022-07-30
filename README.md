@@ -9,6 +9,7 @@ Programming always fascinates me . I am working in this field for almost 2 years
 <h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+<br><br><br>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
