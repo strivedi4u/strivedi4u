@@ -1,7 +1,7 @@
 
 ![](https://github.com/trivedi2u/portfolio/blob/bd79f60dd1d0b472701fe69512958003f44c0a87/images/bgGitHub.jpg)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/strivedi4u" target="_blank"> Shashank Trivedi </a></h1>
-<img width="40%" style="border-radius: 25px;" align="right"   src="https://github.com/trivedi2u/portfolio/blob/cc166ea5de48b659669e705f5b0b7a1de5a9ec2e/images/11zon_cropped.png" >
+<img width="100px" height="100px" style="border-radius: 25px;" align="right"   src="https://github.com/trivedi2u/portfolio/blob/cc166ea5de48b659669e705f5b0b7a1de5a9ec2e/images/11zon_cropped.png" >
 
 
 I'm <b>Shashank Trivedi </b>and I'm a <b>Programming Enthusiast</b>.
