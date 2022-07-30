@@ -67,8 +67,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <div align="center">
 
 <a  href="https://www.linkedin.com/in/strivedi4u" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/LinkedIn-%23FF0000.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a  href="https://www.GitHub.com/trivedi2u/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub%20-%230077B5.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a  href="https://www.trivedi2u.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white">
+<a  href="https://www.github.com/trivedi2u/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub%20-%230077B5.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a  href="https://trivedi2u.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white">
    </a>
 <a href="https://www.hackerrank.com/shashank_trivedi?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2300acee.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&alt=hackerrank" /></a>
 <a href="https://leetcode.com/strivedi4u/"><img  alt="LeetCode" src="https://img.shields.io/badge/LeetCode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" />
