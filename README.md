@@ -57,11 +57,10 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | :---:        |    :----   |  
 | [My Portfolio Website](https://trivedi2u.github.io/portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Weather Finder Web Application](https://trivedi2u.github.io/weatherfinder/)   | Weather Finder Web Application. 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
-| [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-| [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
-| [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
+| [Chat-Bot](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
+| [Tic-Tac-Toe](https://trivedi2u.github.io//tictatoe)     | Classify emails as spam or not-spam on the basis of the message.
+| [Game](https://trivedi2u.github.io/game)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
+
 
  <h1 align="center">Let's Get Connected</h1>
 
