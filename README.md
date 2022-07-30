@@ -1,3 +1,4 @@
+
 ![](https://github.com/trivedi2u/portfolio/blob/bd79f60dd1d0b472701fe69512958003f44c0a87/images/bgGitHub.jpg)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/strivedi4u" target="_blank"> Shashank Trivedi </a></h1>
 <img width="300px" height="300px" style="border-radius: 25px;" align="right" src="https://github.com/trivedi2u/portfolio/blob/cc166ea5de48b659669e705f5b0b7a1de5a9ec2e/images/11zon_cropped.png">
@@ -5,7 +6,7 @@
 <br><br>
 I'm <b>Shashank Trivedi </b>and I'm a <b>Programming Enthusiast</b>.Programming always fascinates me . I am working in this field for almost 2 years .and have earned a lot of experience . Currently I am Seeking a challenging position in a reputed organization .where I can learn new skills, expand my knowledge, and leverage my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth..⚡
 <h3 align="center"> Paasionate Web Developer | Competitive Programmer </h3>
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=trivedi2u&label=Profile%20views&color=6805D3&style=flat" alt="ShashankTrivedi" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=trivedi2u&label=Profile%20views&color=6805D3&style=flat" alt="Shashank Trivedi" /> </p></h3>
 <br>
    <div align="center">
 
