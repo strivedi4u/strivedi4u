@@ -13,8 +13,8 @@ I'm <b>Shashank Trivedi </b>and I'm a <b>Programming Enthusiast</b>.Programming 
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
- Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
+I have learned web-development and having knowledge of HTML,CSS & Javascript and ReactJs. I have Worked on Java, MySQL and JavaScript. Have explored and built projects using Microsoft Azure, Google Cloud, ReactJs, Firebase, Java, SQL.
+ Known Languages: C, C++, Java, Html, CSS JavaScript.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
