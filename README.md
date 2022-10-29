@@ -98,6 +98,11 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
  [![trivedi2u's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=trivedi2u&theme=xcode)](https://git.io/trivedi2u)
    
-   
+   <div>
+     <img align="left" style="width: 295px; height: 295px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">    
+      <img align="center" style="width: 295px; height: 295px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
+   <img align="right" style="width: 295px; height: 295px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
+
+   </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/trivedi2u.svg?style=social&label=Follow)](https://github.com/trivedi2u?tab=followers)
