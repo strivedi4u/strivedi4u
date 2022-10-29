@@ -106,7 +106,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
    </div>
 <div align="center">
   <a href="https://trivedi2u.github.io/trivedi2u/">
-  <img  src="https://github.com/trivedi2u/trivedi2u/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/trivedi2u/trivedi2u/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
