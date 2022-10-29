@@ -105,8 +105,10 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
    </div>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://trivedi2u.github.io/trivedi2u/">
+  <img  src="https://github.com/trivedi2u/trivedi2u/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+
 [![GitHub followers](https://img.shields.io/github/followers/trivedi2u.svg?style=social&label=Follow)](https://github.com/trivedi2u?tab=followers)
