@@ -6,8 +6,11 @@
 I'm <b>Shashank Trivedi </b>and I'm a <b>Programming Enthusiast</b>. Programming always fascinates me . I am working in this field for almost 2 years .and have earned a lot of experience . Currently I am Seeking a challenging position in a reputed organization .where I can learn new skills, expand my knowledge, and leverage my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth..⚡
 <h3 align="center"> Paasionate Web Developer | Competitive Programmer </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=trivedi2u&label=Profile%20views&color=6805D3&style=flat" alt="ShashankTrivedi" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=trivedi2u&label=Profile%20views&color=6805D3&style=flat" alt="ShashankTrivedi" /> 
+
+   </p></h3>
 <br>
+
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
@@ -112,3 +115,9 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 
 [![GitHub followers](https://img.shields.io/github/followers/trivedi2u.svg?style=social&label=Follow)](https://github.com/trivedi2u?tab=followers)
+   
+   
+   <a href="https://www.buymeacoffee.com/strivedi4u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="90%" ></a>
+   
+   
+    
