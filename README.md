@@ -1,7 +1,7 @@
 
-![](https://github.com/trivedi2u/portfolio/blob/bd79f60dd1d0b472701fe69512958003f44c0a87/images/bgGitHub.jpg)
+![](https://outsourcingvn.com/wp-content/uploads/2021/09/the-most-popular-programming-languages-to-learn.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/strivedi4u" target="_blank"> Shashank Trivedi </a></h1>
-<img align="right" style="width: 295px; height: 295px;" src="https://github.com/trivedi2u/portfolio/blob/cc166ea5de48b659669e705f5b0b7a1de5a9ec2e/images/11zon_cropped.png">
+<img align="right" style="width: 295px; height: 295px;" src="https://trivedi2u.github.io/portfolio/images/my.jpg">
 
 <br>
 <center>
