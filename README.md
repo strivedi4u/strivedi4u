@@ -1,14 +1,14 @@
 
 ![](https://outsourcingvn.com/wp-content/uploads/2021/09/the-most-popular-programming-languages-to-learn.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/strivedi4u" target="_blank"> Shashank Trivedi </a></h1>
-<img align="right" style="width: 295px; height: 295px;" src="https://trivedi2u.github.io/portfolio/images/my.jpg">
+<img align="right" style="width: 295px; height: 295px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--q6Qz0w-U--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/961948/d1743293-d68c-46a7-98df-bf60cf33e392.png">
 
-<br>
+
 <center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=3000&pause=1000&color=E64980&center=true&vCenter=true&width=435&lines=Welcome+%F0%9F%99%8F+to+My+GitHub+Profile;I+am+Competitive+Programmer%7C;And+I+am+Programming+Enthusiast)](https://git.io/typing-svg)
 </center>
-<br>
+
 I'm <b>Shashank Trivedi </b>and I'm a <b>Programming Enthusiast</b>. Programming always fascinates me . I am working in this field for almost 2 years .and have earned a lot of experience . Currently I am Seeking a challenging position in a reputed organization .where I can learn new skills, expand my knowledge, and leverage my learnings. To get an opportunity where I can make the best of my potential and contribute to the organization's growth..⚡
 <h3 align="center"> Paasionate Web Developer | Competitive Programmer </h3>
 
@@ -105,7 +105,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
   </div>
 
- [![trivedi2u's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=trivedi2u&theme=xcode)](https://git.io/trivedi2u)
+
    
 <div align="center" style="display:inline-block; display:flex;">
      <img align="center" style="width:80%;  height:250px; float:left; display: inline-block; " src="https://octodex.github.com/images/daftpunktocat-thomas.gif">    
