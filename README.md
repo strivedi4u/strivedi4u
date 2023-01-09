@@ -116,7 +116,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/trivedi2u.svg?style=social&label=Follow)](https://github.com/trivedi2u?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/strivedi4u.svg?style=social&label=Follow)](https://github.com/strivedi4u?tab=followers)
    
    
    <a href="https://www.buymeacoffee.com/strivedi4u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="20%" ></a>
