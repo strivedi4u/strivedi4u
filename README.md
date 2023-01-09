@@ -64,11 +64,12 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://trivedi2u.github.io/portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+   [AMS PORTAL](https://amsproject.azurewebsites.net/)  |  Attendence Management System using Face Recognition Web Application build using various technologies such as ReactJs, SpringBoot, MongoDB & Azure. 
+| [My Portfolio Website](https://strivedi4u.github.io/portfolio/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [Weather Finder Web Application](https://weatherapps.azurewebsites.net/)   | Weather Finder Web Application build using ReactJs, JavaScipt and Azure. 
-| [Chat-Bot](https://trivedi2u.github.io/chatBot)     | Data Science Chat-Bot Web Application build using DialogFlow and HTML, CSS and JavaScript.
-| [Tic-Tac-Toe](https://trivedi2u.github.io/tictatoe)     | Tic-Tac-Toe Game build using HTML, CSS and JavaScript.
-| [Game](https://trivedi2u.github.io/game)     |  Number Gassing Game and Toss game build using HTML, CSS and JavaScript.
+| [Chat-Bot](https://strivedi4u.github.io/chatBot)     | Data Science Chat-Bot Web Application build using DialogFlow and HTML, CSS and JavaScript.
+| [Tic-Tac-Toe](https://strivedi4u.github.io/tictatoe)     | Tic-Tac-Toe Game build using HTML, CSS and JavaScript.
+| [Game](https://strivedi4u.github.io/game)     |  Number Gassing Game and Toss game build using HTML, CSS and JavaScript.
 
 
  <h1 align="center">Let's Get Connected</h1>
