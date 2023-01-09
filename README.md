@@ -113,11 +113,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
    <img align="center" style="width:80%;  height:250px; float:right; display: inline-block; " src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
    </div>
-<div align="center">
-  <a href="https://trivedi2u.github.io/trivedi2u/">
-  <img  src="https://github.com/trivedi2u/trivedi2u/blob/main/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/trivedi2u.svg?style=social&label=Follow)](https://github.com/trivedi2u?tab=followers)
