@@ -96,13 +96,13 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=trivedi2u&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shashank Trivedi" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=trivedi2u&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shashank Trivedi" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=strivedi4u&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shashank Trivedi" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=strivedi4u&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shashank Trivedi" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trivedi2u&theme=dark" alt="Shashank Trivedi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strivedi4u&theme=dark" alt="Shashank Trivedi" /></p>
 
   </div>
 
