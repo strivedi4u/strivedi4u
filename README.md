@@ -106,15 +106,21 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
   </div>
 
+<h1 align="center">Trophies 🏆</h1>
+<br>
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=strivedi4u&theme=dracula&no-frame=true&margin-w=15&margin-h=15">
+</p>
+<br>
 
-   
+   ## HacktoberFest 2022 Badges
+[![An image of @strivedi4u's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/strivedi4u)](https://holopin.io/@strivedi4u)
 <div align="center" style="display:inline-block; display:flex;">
      <img align="center" style="width:80%;  height:250px; float:left; display: inline-block; " src="https://octodex.github.com/images/daftpunktocat-thomas.gif">    
       <img align="center" style="width:80%;  height:250px; float:center; display: inline-block; " src="https://octodex.github.com/images/hula_loop_octodex03.gif">
    <img align="center" style="width:80%;  height:250px; float:right; display: inline-block; " src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
    </div>
-
 
 
 [![GitHub followers](https://img.shields.io/github/followers/strivedi4u.svg?style=social&label=Follow)](https://github.com/strivedi4u?tab=followers)
