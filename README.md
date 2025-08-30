@@ -1,6 +1,6 @@
 
 ![](https://outsourcingvn.com/wp-content/uploads/2021/09/the-most-popular-programming-languages-to-learn.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/strivedi4u" target="_blank"> Shashank Trivedi </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/trivedi2u" target="_blank"> Shashank Trivedi </a></h1>
 <img align="right" style="width: 295px; height: 295px;" src="https://github.com/strivedi4u/strivedi4u/blob/main/octocat-1756586371964.png">
 
 
