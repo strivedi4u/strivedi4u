@@ -1,7 +1,7 @@
 
 ![](https://outsourcingvn.com/wp-content/uploads/2021/09/the-most-popular-programming-languages-to-learn.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/strivedi4u" target="_blank"> Shashank Trivedi </a></h1>
-<img align="right" style="width: 295px; height: 295px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--q6Qz0w-U--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/961948/d1743293-d68c-46a7-98df-bf60cf33e392.png">
+<img align="right" style="width: 295px; height: 295px;" src="https://github.com/strivedi4u/strivedi4u/blob/main/octocat-1756586371964.png">
 
 
 <center>
