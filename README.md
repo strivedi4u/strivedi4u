@@ -235,7 +235,69 @@ I have extensive experience in full-stack development with deep expertise in Jav
 </div>
 
 ---
+<!-- INTERACTIVE SKILL MATRIX -->
+### 💎 TECHNOLOGY SKILL MATRIX
 
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br/><b>React</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br/><b>Python</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br/><b>TypeScript</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br/><b>Docker</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="65" height="65" />
+<br/><b>Kubernetes</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br/><b>AWS</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br/><b>GitHub</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br/><b>MySQL</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+<br/><b>Webpack</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+<td align="center" width="20%">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+<br/><b>REST API</b>
+<br/>⭐⭐⭐⭐⭐
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 ## 🚀 Featured Projects & Live Applications
 
 <div align="center">
