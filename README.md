@@ -233,7 +233,7 @@ I have extensive experience in full-stack development with deep expertise in Jav
 </p>
 
 </div>
-
+<div align="center">
 ---
 <!-- INTERACTIVE SKILL MATRIX -->
 ### 💎 TECHNOLOGY SKILL MATRIX
