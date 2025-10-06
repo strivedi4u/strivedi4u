@@ -402,7 +402,7 @@ Multiple interactive games including Number Guessing and Toss Game
 >
 > *Shashank's **passion for learning** and his **strong problem-solving abilities** allowed him to tackle complex challenges with ease. Moreover, his **collaborative nature** and **excellent communication skills** made him a valuable asset to our team. I am confident that Shashank's skills and professionalism will continue to drive success in his future endeavors."*
 
-[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-tomar/)
+[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-t-48684b238/)
 
 </td>
 <td width="50%" valign="top">
@@ -435,7 +435,7 @@ Multiple interactive games including Number Guessing and Toss Game
 >
 > *He suggested at any moment of time when there is a difficult situation for me. I was **amazed by his knowledge on different aspects**. Finally it's a **great experience** for me to work with him and learnt **useful insights**."*
 
-[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhana-ketha/)
+[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaketha/)
 
 </td>
 <td width="50%" valign="top">
@@ -449,7 +449,7 @@ Multiple interactive games including Number Guessing and Toss Game
 >
 > *During this rigorous program of 8 weeks, Shashank collaborated with his teammates and built an **Informal Job Portal Application**. What stands out about Shashank is that he is a **team player** who considers the opinions of all of his teammates while working on projects, and he has got a **wonderful positive and outgoing personality** that allows him to exude warmth to everyone, even in virtual calls. It was great working together with him."*
 
-[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-singh/)
+[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-singh-9a7159217/)
 
 </td>
 </tr>
@@ -464,7 +464,7 @@ Multiple interactive games including Number Guessing and Toss Game
 
 > *"Shashank is an **enthusiastic person**, always guides people in the right path. Gives me **guidance whenever needed**. He has **good technical knowledge** and **good leadership quality** as well."*
 
-[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-shah/)
+[![LinkedIn](https://img.shields.io/badge/View_Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-shah-804088115/)
 
 </td>
 </tr>
