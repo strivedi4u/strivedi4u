@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO HEADER WITH WAVE ANIMATION -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Shashank%20Trivedi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20Agentic%20AI%20Expert%20%7C%205%2B%20Years%20Experience&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Shashank%20Trivedi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20Agentic%20AI%20Expert%20%7C%203%2B%20Years%20Experience&descAlignY=55&descSize=20)
 
 <!-- PROGRAMMING LANGUAGES BANNER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Programming" width="100%" />
