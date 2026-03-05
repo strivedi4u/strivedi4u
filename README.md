@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- HERO HEADER WITH WAVE ANIMATION -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Shashank%20Trivedi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20Agentic%20AI%20Expert%20%7C%203%2B%20Years%20Experience&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Shashank%20Trivedi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Expert%20%7C%205%2B%20Years%20Experience&descAlignY=55&descSize=20)
 
 <!-- PROGRAMMING LANGUAGES BANNER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Programming" width="100%" />
 
 <!-- SNAKE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strivedi4u/strivedi4u/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strivedi4u/strivedi4u/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/strivedi4u/strivedi4u/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- TYPING ANIMATION -->
@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trivedi2u&label=Profile%20Views&color=E64980&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/strivedi4u?label=Followers&style=for-the-badge&color=FF6B6B" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/strivedi4u?label=Total%20Stars&style=for-the-badge&color=FFD700" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/strivedi4u?label=Total%20Stars&style=for-the-badge&color=FFD700&affiliations=OWNER" alt="Total Stars" />
 </p>
 
 <!-- SOCIAL CONNECTION BADGES -->
@@ -115,10 +115,6 @@ certifications:
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=strivedi4u&theme=radical&no-frame=true&row=2&column=6&margin-w=15&margin-h=15&no-bg=false&title=MultiLanguage,Repositories,Commits,PullRequest,Issues,Stars,Followers" alt="GitHub Trophies" />
-
-### 🌟 Contribution Heatmap
-
-<img src="https://ghchart.rshah.org/E64980/strivedi4u" alt="Contribution Heatmap" />
 
 </div>
 
@@ -233,9 +229,10 @@ I have extensive experience in full-stack development with deep expertise in Jav
 </p>
 
 </div>
+
 <div align="center">
 
-
+### 🎯 Core Technology Proficiency
 
 <table>
 <tr>
@@ -718,14 +715,14 @@ Multiple interactive games including Number Guessing and Toss Game
 
 ### 🎯 Live Repository Insights
 
-<a href="https://github.com/strivedi4u">
-  <img src="https://img.shields.io/badge/Total_Repos-Dynamic-blue?style=for-the-badge&logo=github" alt="Total Repos" />
-</a>
 <a href="https://github.com/strivedi4u?tab=repositories">
-  <img src="https://img.shields.io/badge/Public_Projects-Live_Count-green?style=for-the-badge&logo=github" alt="Public Projects" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fstrivedi4u&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=blue" alt="Total Repos" />
 </a>
 <a href="https://github.com/strivedi4u?tab=followers">
-  <img src="https://img.shields.io/github/followers/strivedi4u?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/strivedi4u?style=for-the-badge&logo=github&label=Followers&color=green" alt="Followers" />
+</a>
+<a href="https://github.com/strivedi4u?tab=repositories">
+  <img src="https://img.shields.io/github/stars/strivedi4u?style=for-the-badge&logo=github&label=Total%20Stars&color=gold&affiliations=OWNER" alt="Stars" />
 </a>
 
 </div>
@@ -770,7 +767,7 @@ Multiple interactive games including Number Guessing and Toss Game
 
 **⭐ If you like my work, consider giving my repositories a star! ⭐**
 
-*Last Updated: July 2025*
+*Last Updated: March 2026*
 
 </div>
    
