@@ -308,26 +308,36 @@ I believe in implementing knowledge through real-world projects. Projects play a
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/strivedi4u/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=strivedi4u&repo=portfolio&theme=radical&hide_border=true" alt="Portfolio" />
+<a href="https://github.com/strivedi4u/splitx">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=strivedi4u&repo=splitx&theme=radical&hide_border=true" alt="SplitX" />
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/strivedi4u/chatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=strivedi4u&repo=chatBot&theme=radical&hide_border=true" alt="ChatBot" />
+<a href="https://github.com/strivedi4u/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=strivedi4u&repo=portfolio&theme=radical&hide_border=true" alt="Portfolio" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
+<a href="https://github.com/strivedi4u/chatBot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=strivedi4u&repo=chatBot&theme=radical&hide_border=true" alt="ChatBot" />
+</a>
+</td>
+<td width="50%">
 <a href="https://github.com/strivedi4u/tictatoe">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=strivedi4u&repo=tictatoe&theme=radical&hide_border=true" alt="Tic Tac Toe" />
 </a>
 </td>
+</tr>
+<tr>
 <td width="50%">
 <a href="https://github.com/strivedi4u/game">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=strivedi4u&repo=game&theme=radical&hide_border=true" alt="Game Portal" />
 </a>
+</td>
+<td width="50%">
+
 </td>
 </tr>
 </table>
@@ -340,6 +350,23 @@ I believe in implementing knowledge through real-world projects. Projects play a
 <th width="50%">Description</th>
 <th width="20%">Live Demo</th>
 </tr>
+<tr>
+<td><b>💰 SplitX</b></td>
+<td>
+Smart Expense Sharing — Split expenses with friends, roommates & travel buddies. Full-stack with Android APK.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+</td>
+<td align="center">
+<a href="https://splitx.azurewebsites.net/" target="_blank">
+<img src="https://img.shields.io/badge/View-Live-success?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</a>
+</td>
+</tr>
+
 <tr>
 <td><b>🎯 AMS Portal</b></td>
 <td>
