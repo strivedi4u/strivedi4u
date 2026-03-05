@@ -801,8 +801,8 @@ Multiple interactive games including Number Guessing and Toss Game
 <td align="center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" alt="Octocat Guy"><br/><b>Bug Hunting 🐛</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200" alt="NUX Octocat"><br/><b>Open Source 💚</b></td>
-<td align="center"><img src="https://octodex.github.com/images/manufactory.gif" width="200" alt="Manufactory"><br/><b>Building Things 🔧</b></td>
+<td align="center"><img src="https://octodex.github.com/images/collabocats.jpg" width="200" alt="Collabocats"><br/><b>Open Source 💚</b></td>
+<td align="center"><img src="https://octodex.github.com/images/constructocat2.jpg" width="200" alt="Constructocat"><br/><b>Building Things 🔧</b></td>
 <td align="center"><img src="https://octodex.github.com/images/welcometocat.png" width="200" alt="Welcome"><br/><b>Welcome! 👋</b></td>
 </tr>
 </table>
