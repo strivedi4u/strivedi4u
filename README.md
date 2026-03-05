@@ -91,12 +91,12 @@ certifications:
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=strivedi4u&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=strivedi4u&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&card_width=400&v=2" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strivedi4u&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=strivedi4u&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400&v=2" alt="Top Languages" />
 
 </td>
 </tr>
@@ -104,15 +104,15 @@ certifications:
 
 ### 🔥 Contribution Streak & Activity
 
-<img src="https://streak-stats.demolab.com/?user=strivedi4u&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=strivedi4u&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=2" alt="GitHub Streak" />
 
 ### 📈 Contribution Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=strivedi4u&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=strivedi4u&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph&v=2" alt="Activity Graph" />
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=strivedi4u&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=false" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=strivedi4u&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=false&v=2" alt="GitHub Trophies" />
 
 </div>
 
@@ -304,31 +304,31 @@ I believe in implementing knowledge through real-world projects. Projects play a
 <tr>
 <td width="50%">
 <a href="https://github.com/strivedi4u/splitx">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=splitx&theme=radical&hide_border=true" alt="SplitX" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=splitx&theme=radical&hide_border=true&v=2" alt="SplitX" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/strivedi4u/portfolio">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=portfolio&theme=radical&hide_border=true" alt="Portfolio" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=portfolio&theme=radical&hide_border=true&v=2" alt="Portfolio" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/strivedi4u/chatBot">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=chatBot&theme=radical&hide_border=true" alt="ChatBot" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=chatBot&theme=radical&hide_border=true&v=2" alt="ChatBot" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/strivedi4u/tictatoe">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=tictatoe&theme=radical&hide_border=true" alt="Tic Tac Toe" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=tictatoe&theme=radical&hide_border=true&v=2" alt="Tic Tac Toe" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/strivedi4u/game">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=game&theme=radical&hide_border=true" alt="Game Portal" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=strivedi4u&repo=game&theme=radical&hide_border=true&v=2" alt="Game Portal" />
 </a>
 </td>
 <td width="50%">
@@ -681,31 +681,31 @@ Multiple interactive games including Number Guessing and Toss Game
 <tr>
 <td colspan="2">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=strivedi4u&theme=radical" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=strivedi4u&theme=radical&v=2" alt="Profile Summary" />
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=strivedi4u&theme=radical" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=strivedi4u&theme=radical&v=2" alt="Repos Per Language" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=strivedi4u&theme=radical" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=strivedi4u&theme=radical&v=2" alt="Most Commit Language" />
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=strivedi4u&theme=radical" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=strivedi4u&theme=radical&v=2" alt="Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strivedi4u&theme=radical&utcOffset=5.5" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strivedi4u&theme=radical&utcOffset=5.5&v=2" alt="Productive Time" />
 
 </td>
 </tr>
