@@ -7,11 +7,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Programming" width="100%" />
 
 <!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strivedi4u/strivedi4u/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strivedi4u/strivedi4u/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/strivedi4u/strivedi4u/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://github.com/strivedi4u">
+  <img src="https://raw.githubusercontent.com/strivedi4u/strivedi4u/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</a>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
