@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- ANIMATED HAND WAVE GREETING -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> <b>Hey there! I'm</b>
+
 <!-- HERO HEADER WITH WAVE ANIMATION -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=300&section=header&text=Shashank%20Trivedi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Expert%20%7C%205%2B%20Years%20Experience&descAlignY=55&descSize=20)
 
@@ -34,6 +37,25 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/strivedi4u)
 
 </div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+## 🔭 What I'm Currently Working On
+
+<div align="center">
+
+| 🚀 Project | 📝 Status | 🛠 Tech Stack |
+|:---:|:---:|:---:|
+| **💰 SplitX** — Smart Expense Sharing | 🟢 Live & Active | React, Express, Capacitor |
+| **🤖 AI Agent Framework** — LLM Orchestration | 🔨 Building | Python, LangChain, OpenAI |
+| **☁️ Cloud Microservices** — Event-Driven Architecture | 📐 Designing | Spring Boot, Kafka, K8s |
+| **📱 Mobile-First PWAs** — Offline-First Apps | 🧪 Experimenting | React, Service Workers |
+
+</div>
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -81,6 +103,26 @@ certifications:
 
 ---
 
+## ⚡ Fun Facts About Me
+
+<div align="center">
+
+```text
+🔭 I'm currently building    →  Agentic AI systems & SplitX
+🌱 I'm currently learning    →  Rust, Web3, and System Design at Scale
+👯 I'm looking to collab on  →  Open Source AI/ML Projects
+🤔 I'm looking for help with →  Growing the developer community
+💬 Ask me about              →  Java, Spring Boot, React, AI/ML, Cloud
+📫 How to reach me           →  LinkedIn @strivedi4u
+⚡ Fun fact                  →  I mass mass solved 500+ DSA problems while binge watching anime 🍿
+🎯 2026 Goals                →  Contribute more to Open Source & build AI tools
+🏆 Achievement unlocked      →  5x Azure + GCP + AWS Certified 🎓
+```
+
+</div>
+
+---
+
 ## 📊 Advanced Live Analytics Dashboard
 
 <div align="center">
@@ -116,7 +158,8 @@ certifications:
 
 </div>
 
----
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ## 🛠 Technical Skills & Technology Arsenal
 
@@ -727,13 +770,42 @@ Multiple interactive games including Number Guessing and Toss Game
 
 ---
 
+## 💡 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+## 😂 Dev Humor
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&qColor=%23E64980&aColor=%23FFD700" alt="Dev Joke" width="500" />
+
+</div>
+
+---
+
 ## 🎨 Fun Zone & GitHub Octocats
 
-<div align="center" style="display:flex; justify-content:space-around;">
+<div align="center">
 
-<img align="center" style="width:30%; height:250px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Octocat Thomas">
-<img align="center" style="width:30%; height:250px;" src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Hula Loop Octocat">
-<img align="center" style="width:30%; height:250px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Octocat Guy">
+<table>
+<tr>
+<td align="center"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" alt="Octocat Thomas"><br/><b>Coding Mode 🎧</b></td>
+<td align="center"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="200" alt="Hula Loop"><br/><b>Deploy Day 🚀</b></td>
+<td align="center"><img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" alt="Octocat Guy"><br/><b>Bug Hunting 🐛</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200" alt="NUX Octocat"><br/><b>Open Source 💚</b></td>
+<td align="center"><img src="https://octodex.github.com/images/manufactory.gif" width="200" alt="Manufactory"><br/><b>Building Things 🔧</b></td>
+<td align="center"><img src="https://octodex.github.com/images/welcometocat.png" width="200" alt="Welcome"><br/><b>Welcome! 👋</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -754,7 +826,54 @@ Multiple interactive games including Number Guessing and Toss Game
 
 ---
 
+## 🏷️ Weekly Development Breakdown
+
 <div align="center">
+
+```text
+🕐 Timezone:    Asia/Kolkata (IST, UTC+5:30)
+
+💻 Languages:
+  Java           ████████████░░░░░░░░   60.25%
+  JavaScript     ████████░░░░░░░░░░░░   40.12%
+  TypeScript     ██████░░░░░░░░░░░░░░   30.88%
+  Python         ████░░░░░░░░░░░░░░░░   20.50%
+  HTML/CSS       ██░░░░░░░░░░░░░░░░░░   10.15%
+
+⏰ Working Hours:
+  🌅 Morning    ████████░░░░░░░░░░░░   35.00%   (6 AM - 12 PM)
+  🌞 Afternoon  ██████░░░░░░░░░░░░░░   25.00%   (12 PM - 6 PM)
+  🌇 Evening    ████████████░░░░░░░░   30.00%   (6 PM - 12 AM)
+  🌙 Night      ████░░░░░░░░░░░░░░░░   10.00%   (12 AM - 6 AM)
+
+📊 Most Productive Day: Saturday 🚀
+```
+
+</div>
+
+---
+
+## 🎵 Coding Vibes & Playlist
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+| 🎧 While Coding I Listen To | 💡 My Mantras |
+|:---:|:---:|
+| Lo-fi Hip Hop 🎵 | Clean Code > Clever Code 🧹 |
+| Synthwave 🌊 | Ship Fast, Iterate Faster 🚢 |
+| Epic Movie OSTs 🎬 | Tests Are Love Letters 💌 |
+| Indian Classical 🎶 | Always Be Learning 📚 |
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <!-- FOOTER WAVE ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" alt="Footer" />
@@ -764,6 +883,10 @@ Multiple interactive games including Number Guessing and Toss Game
 <img src="https://komarev.com/ghpvc/?username=trivedi2u&label=Profile%20Views&color=E64980&style=for-the-badge" alt="Profile Views" />
 
 **⭐ If you like my work, consider giving my repositories a star! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=2" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=E64980&center=true&vCenter=true&width=400&lines=Thanks+for+scrolling+all+the+way+down!;You're+awesome+%F0%9F%92%96;Let's+connect+and+build+together!;Happy+Coding+%F0%9F%9A%80" alt="Footer Typing" />
 
 *Last Updated: March 2026*
 
