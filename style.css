@@ -717,6 +717,9 @@ section .subtitle {
     color: #fff;
     margin: 4px 0 14px;
     font-weight: 500;
+    min-height: 48px; /* Prevents height jumping during typing */
+    display: flex;
+    align-items: center;
 }
 
 .home-content .text-3 span.typing {
@@ -974,6 +977,10 @@ section .subtitle {
     font-weight: 700;
     margin-bottom: 18px;
     color: #fff;
+    min-height: 45px; /* Prevents height jumping during typing */
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .about .right .text span.typing-2 {
