@@ -3053,15 +3053,15 @@ body.lightbox-open { overflow: hidden; }
 
 /* ======== LIGHT THEME (POLISHED) ======== */
 body.light-theme {
-    --bg-dark: #f8fafc;
-    --bg-darker: #f1f5f9;
-    --bg-card: rgba(255, 255, 255, 0.85);
-    --bg-glass: rgba(15, 23, 42, 0.04);
+    --bg-dark: #f0f4f8;
+    --bg-darker: #e2e8f0;
+    --bg-card: rgba(255, 255, 255, 0.95);
+    --bg-glass: rgba(15, 23, 42, 0.05);
     --text-light: #0f172a;
-    --text-muted: #475569;
-    --border: rgba(15, 23, 42, 0.1);
-    --shadow-glow: 0 0 30px rgba(0, 153, 204, 0.25);
-    --shadow-card: 0 8px 24px rgba(15, 23, 42, 0.08);
+    --text-muted: #334155;
+    --border: rgba(15, 23, 42, 0.12);
+    --shadow-glow: 0 0 30px rgba(0, 153, 204, 0.2);
+    --shadow-card: 0 8px 30px rgba(15, 23, 42, 0.1);
 }
 
 /* Navbar */
@@ -3178,8 +3178,11 @@ body.light-theme .achievement-card p { color: #475569; }
 body.light-theme .achievement-card p b { color: #0f172a; }
 
 /* Certifications */
+body.light-theme .teamsachive .carousel .card { background: #fff; border-color: rgba(0, 0, 0, 0.1); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05); }
+body.light-theme .teamsachive .carousel .card .cert-logo { background: rgba(0, 0, 0, 0.04); border-color: rgba(0, 0, 0, 0.08); }
 body.light-theme .teamsachive .carousel .card .text { color: #0f172a; }
-body.light-theme .teamsachive .carousel .card p { color: #475569; }
+body.light-theme .teamsachive .carousel .card p { color: #334155; }
+body.light-theme .cert-logo img { filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1)); }
 
 /* Testimonials */
 body.light-theme .testimonial-text { color: #475569; }
