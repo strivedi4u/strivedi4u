@@ -1999,10 +1999,10 @@ body.light-theme .featured-highlights li i { color: #b48228; }
     line-height: 1;
 }
 
-/* Unified certificate logo frame */
+/* Unified certificate logo frame — works with <i>, <img>, or text */
 .teamsachive .carousel .card .cert-logo {
-    width: 80px;
-    height: 80px;
+    width: 84px;
+    height: 84px;
     margin: 0 auto 14px;
     border-radius: 18px;
     background: linear-gradient(135deg, rgba(0, 212, 255, 0.08), rgba(124, 58, 237, 0.08));
@@ -2012,6 +2012,8 @@ body.light-theme .featured-highlights li i { color: #b48228; }
     justify-content: center;
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    font-size: 44px;
+    line-height: 1;
 }
 
 .teamsachive .carousel .card:hover .cert-logo {
@@ -2019,9 +2021,15 @@ body.light-theme .featured-highlights li i { color: #b48228; }
     box-shadow: 0 10px 24px rgba(0, 212, 255, 0.25);
 }
 
+.teamsachive .carousel .card .cert-logo > i {
+    font-size: 44px;
+    line-height: 1;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.25));
+}
+
 .teamsachive .carousel .card .cert-logo img {
-    width: 46px;
-    height: 46px;
+    width: 50px;
+    height: 50px;
     object-fit: contain;
     border: 0;
     margin: 0;
@@ -2030,22 +2038,33 @@ body.light-theme .featured-highlights li i { color: #b48228; }
     filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.25));
 }
 
-/* Brand-tint backgrounds per logo */
+/* Initials-style cert logos (Six Sigma, Infosys, etc.) */
+.teamsachive .carousel .card .cert-logo.initials {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: -1px;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* Brand-tint backgrounds + icon colours per cert */
 .cert-logo.oracle    { background: linear-gradient(135deg, rgba(248, 0, 0, 0.18), rgba(248, 0, 0, 0.06)); }
-.cert-logo.github    { background: linear-gradient(135deg, rgba(255, 255, 255, 0.10), rgba(255, 255, 255, 0.03)); }
+.cert-logo.github    { background: linear-gradient(135deg, rgba(255, 255, 255, 0.10), rgba(255, 255, 255, 0.03)); color: #fff; }
 .cert-logo.postman   { background: linear-gradient(135deg, rgba(255, 108, 55, 0.20), rgba(255, 108, 55, 0.06)); }
-.cert-logo.sixsigma  { background: linear-gradient(135deg, rgba(245, 245, 245, 0.10), rgba(245, 245, 245, 0.03)); }
-.cert-logo.aws       { background: linear-gradient(135deg, rgba(255, 153, 0, 0.20), rgba(255, 153, 0, 0.06)); }
-.cert-logo.infosys   { background: linear-gradient(135deg, rgba(0, 124, 195, 0.20), rgba(0, 124, 195, 0.06)); }
-.cert-logo.ibm       { background: linear-gradient(135deg, rgba(5, 48, 173, 0.20), rgba(5, 48, 173, 0.06)); }
+.cert-logo.sixsigma  { background: linear-gradient(135deg, rgba(16, 185, 129, 0.25), rgba(16, 185, 129, 0.06)); }
+.cert-logo.aws       { background: linear-gradient(135deg, rgba(255, 153, 0, 0.20), rgba(255, 153, 0, 0.06)); color: #FF9900; }
+.cert-logo.infosys   { background: linear-gradient(135deg, rgba(0, 124, 195, 0.25), rgba(0, 124, 195, 0.06)); }
+.cert-logo.infosys.initials { color: #1E88E5; }
+.cert-logo.ibm       { background: linear-gradient(135deg, rgba(5, 48, 173, 0.22), rgba(5, 48, 173, 0.06)); color: #1F70C1; }
 .cert-logo.java      { background: linear-gradient(135deg, rgba(248, 152, 32, 0.20), rgba(248, 152, 32, 0.06)); }
 .cert-logo.js        { background: linear-gradient(135deg, rgba(247, 223, 30, 0.20), rgba(247, 223, 30, 0.06)); }
-.cert-logo.sql       { background: linear-gradient(135deg, rgba(68, 121, 161, 0.20), rgba(68, 121, 161, 0.06)); }
-.cert-logo.hackerrank{ background: linear-gradient(135deg, rgba(27, 169, 76, 0.20), rgba(27, 169, 76, 0.06)); }
-.cert-logo.umd       { background: linear-gradient(135deg, rgba(212, 24, 15, 0.20), rgba(212, 24, 15, 0.06)); }
-.cert-logo.web       { background: linear-gradient(135deg, rgba(227, 79, 38, 0.20), rgba(227, 79, 38, 0.06)); }
-.cert-logo.network   { background: linear-gradient(135deg, rgba(27, 160, 215, 0.20), rgba(27, 160, 215, 0.06)); }
-.cert-logo.cprog     { background: linear-gradient(135deg, rgba(168, 185, 204, 0.20), rgba(168, 185, 204, 0.06)); }
+.cert-logo.sql       { background: linear-gradient(135deg, rgba(68, 121, 161, 0.22), rgba(68, 121, 161, 0.06)); }
+.cert-logo.hackerrank{ background: linear-gradient(135deg, rgba(27, 169, 76, 0.22), rgba(27, 169, 76, 0.06)); color: #1BA94C; }
+.cert-logo.umd       { background: linear-gradient(135deg, rgba(212, 24, 15, 0.22), rgba(212, 24, 15, 0.06)); color: #ef4444; }
+.cert-logo.web       { background: linear-gradient(135deg, rgba(227, 79, 38, 0.22), rgba(227, 79, 38, 0.06)); }
+.cert-logo.network   { background: linear-gradient(135deg, rgba(27, 160, 215, 0.22), rgba(27, 160, 215, 0.06)); color: #1BA0D7; }
+.cert-logo.cprog     { background: linear-gradient(135deg, rgba(168, 185, 204, 0.22), rgba(168, 185, 204, 0.06)); }
 
 .teamsachive .carousel .card img {
     /* deprecated rule preserved for any leftover images */
@@ -3496,8 +3515,10 @@ body.light-theme .loader-text { color: #475569; }
     /* Certifications carousel */
     .teamsachive .carousel .card { padding: 22px 16px; min-height: 200px; }
     .teamsachive .carousel .card .cert-icon { font-size: 46px; }
-    .teamsachive .carousel .card .cert-logo { width: 70px; height: 70px; border-radius: 16px; }
-    .teamsachive .carousel .card .cert-logo img { width: 40px; height: 40px; }
+    .teamsachive .carousel .card .cert-logo { width: 72px; height: 72px; border-radius: 16px; font-size: 36px; }
+    .teamsachive .carousel .card .cert-logo > i { font-size: 36px; }
+    .teamsachive .carousel .card .cert-logo img { width: 42px; height: 42px; }
+    .teamsachive .carousel .card .cert-logo.initials { font-size: 24px; }
     .teamsachive .carousel .card img { width: 80px; height: 80px; }
     .teamsachive .carousel .card .text { font-size: 13px; }
     .teamsachive .carousel .card p { font-size: 11px; }
