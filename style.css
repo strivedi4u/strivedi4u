@@ -1999,7 +1999,56 @@ body.light-theme .featured-highlights li i { color: #b48228; }
     line-height: 1;
 }
 
+/* Unified certificate logo frame */
+.teamsachive .carousel .card .cert-logo {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 14px;
+    border-radius: 18px;
+    background: linear-gradient(135deg, rgba(0, 212, 255, 0.08), rgba(124, 58, 237, 0.08));
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.teamsachive .carousel .card:hover .cert-logo {
+    transform: rotate(-6deg) scale(1.05);
+    box-shadow: 0 10px 24px rgba(0, 212, 255, 0.25);
+}
+
+.teamsachive .carousel .card .cert-logo img {
+    width: 46px;
+    height: 46px;
+    object-fit: contain;
+    border: 0;
+    margin: 0;
+    background: transparent;
+    border-radius: 0;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* Brand-tint backgrounds per logo */
+.cert-logo.oracle    { background: linear-gradient(135deg, rgba(248, 0, 0, 0.18), rgba(248, 0, 0, 0.06)); }
+.cert-logo.github    { background: linear-gradient(135deg, rgba(255, 255, 255, 0.10), rgba(255, 255, 255, 0.03)); }
+.cert-logo.postman   { background: linear-gradient(135deg, rgba(255, 108, 55, 0.20), rgba(255, 108, 55, 0.06)); }
+.cert-logo.sixsigma  { background: linear-gradient(135deg, rgba(245, 245, 245, 0.10), rgba(245, 245, 245, 0.03)); }
+.cert-logo.aws       { background: linear-gradient(135deg, rgba(255, 153, 0, 0.20), rgba(255, 153, 0, 0.06)); }
+.cert-logo.infosys   { background: linear-gradient(135deg, rgba(0, 124, 195, 0.20), rgba(0, 124, 195, 0.06)); }
+.cert-logo.ibm       { background: linear-gradient(135deg, rgba(5, 48, 173, 0.20), rgba(5, 48, 173, 0.06)); }
+.cert-logo.java      { background: linear-gradient(135deg, rgba(248, 152, 32, 0.20), rgba(248, 152, 32, 0.06)); }
+.cert-logo.js        { background: linear-gradient(135deg, rgba(247, 223, 30, 0.20), rgba(247, 223, 30, 0.06)); }
+.cert-logo.sql       { background: linear-gradient(135deg, rgba(68, 121, 161, 0.20), rgba(68, 121, 161, 0.06)); }
+.cert-logo.hackerrank{ background: linear-gradient(135deg, rgba(27, 169, 76, 0.20), rgba(27, 169, 76, 0.06)); }
+.cert-logo.umd       { background: linear-gradient(135deg, rgba(212, 24, 15, 0.20), rgba(212, 24, 15, 0.06)); }
+.cert-logo.web       { background: linear-gradient(135deg, rgba(227, 79, 38, 0.20), rgba(227, 79, 38, 0.06)); }
+.cert-logo.network   { background: linear-gradient(135deg, rgba(27, 160, 215, 0.20), rgba(27, 160, 215, 0.06)); }
+.cert-logo.cprog     { background: linear-gradient(135deg, rgba(168, 185, 204, 0.20), rgba(168, 185, 204, 0.06)); }
+
 .teamsachive .carousel .card img {
+    /* deprecated rule preserved for any leftover images */
     width: 100px;
     height: 100px;
     object-fit: cover;
@@ -3251,6 +3300,7 @@ body.light-theme .loader-text { color: #475569; }
     .menu-btn i.active::before { content: "\f00d"; }
 
     .navbar .menu {
+        display: block !important;
         position: fixed;
         height: 100vh;
         width: 100%;
@@ -3262,13 +3312,19 @@ body.light-theme .loader-text { color: #475569; }
         padding-top: 100px;
         overflow-y: auto;
         transition: all 0.3s ease;
+        flex-wrap: wrap !important;
     }
     body.light-theme .navbar .menu { background: rgba(255, 255, 255, 0.97); }
 
     .navbar .menu.active { left: 0; }
-    .navbar .menu li { display: block; }
-    .navbar .menu li a { display: inline-block; margin: 14px 0; font-size: 20px; }
-    .navbar .menu li a i { display: inline-block; }
+    .navbar .menu li { display: block !important; }
+    .navbar .menu li a {
+        display: inline-block;
+        margin: 12px 0 !important;
+        font-size: 18px;
+        white-space: nowrap;
+    }
+    .navbar .menu li a i { display: inline-block !important; margin-right: 8px; font-size: 16px; }
 }
 
 /* ---- Phone (large) ---- */
@@ -3440,6 +3496,8 @@ body.light-theme .loader-text { color: #475569; }
     /* Certifications carousel */
     .teamsachive .carousel .card { padding: 22px 16px; min-height: 200px; }
     .teamsachive .carousel .card .cert-icon { font-size: 46px; }
+    .teamsachive .carousel .card .cert-logo { width: 70px; height: 70px; border-radius: 16px; }
+    .teamsachive .carousel .card .cert-logo img { width: 40px; height: 40px; }
     .teamsachive .carousel .card img { width: 80px; height: 80px; }
     .teamsachive .carousel .card .text { font-size: 13px; }
     .teamsachive .carousel .card p { font-size: 11px; }
