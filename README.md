@@ -104,7 +104,7 @@ We are committed to fostering a welcoming and inclusive community. Please read o
 
 ## 📬 Contact
 
-**Shashank Kumar Trivedi**  
+**Shashank Trivedi**  
 📧 [Contact via LinkedIn](https://linkedin.com/in/strivedi4u)  
 📍 Gurugram, Haryana, India  
 💼 [LinkedIn](https://linkedin.com/in/strivedi4u) | [GitHub](https://github.com/strivedi4u)
