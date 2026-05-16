@@ -78,6 +78,16 @@ portfolio/
 > [!TIP]
 > Add your portfolio screenshots here once deployed!
 
+## 🤝 Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 ---
 
 ## 📜 License
@@ -86,7 +96,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🤝 Contact
+## ⚖️ Code of Conduct
+
+We are committed to fostering a welcoming and inclusive community. Please read our [Code of Conduct](CODE_OF_CONDUCT.md) for more details.
+
+---
+
+## 📬 Contact
 
 **Shashank Kumar Trivedi**  
 📧 [shashanktrivedi.official@gmail.com](mailto:shashanktrivedi.official@gmail.com)  
