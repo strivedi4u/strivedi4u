@@ -570,6 +570,11 @@ section .subtitle {
     flex-shrink: 0;
 }
 
+.navbar .logo {
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
 .navbar .logo a {
     color: #fff;
     font-size: 20px;
@@ -717,9 +722,7 @@ section .subtitle {
     color: #fff;
     margin: 4px 0 14px;
     font-weight: 500;
-    min-height: 48px; /* Prevents height jumping during typing */
-    display: flex;
-    align-items: center;
+    line-height: 1.5;
 }
 
 .home-content .text-3 span.typing {
@@ -1485,7 +1488,7 @@ section .subtitle {
 
 .achievements-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 26px;
 }
 
@@ -1902,19 +1905,19 @@ body.light-theme .featured-highlights li i { color: #b48228; }
 .achievement-card > img {
     width: 100%;
     max-width: 100%;
-    height: auto;
-    max-height: 280px;
-    object-fit: contain;
-    object-position: center;
+    height: 200px;
+    object-fit: cover;
+    object-position: center top;
     border-radius: 0;
     margin: 0;
     border: 0;
     box-shadow: none;
-    padding: 16px 16px 8px;
-    background: linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%);
+    padding: 0;
+    background: #fff;
     display: block;
     cursor: zoom-in;
     transition: transform 0.5s ease, filter 0.3s ease;
+    flex-shrink: 0;
 }
 
 .achievement-card:has(> img):hover > img {
@@ -3320,8 +3323,10 @@ body.light-theme .loader-text { color: #475569; }
 
     .about-content { grid-template-columns: 1fr; gap: 40px; }
     .stats-grid { grid-template-columns: repeat(2, 1fr); }
-    .skills-grid, .projects-grid, .achievements-grid, .profiles-grid, .testimonial-grid,
+    .skills-grid, .projects-grid, .profiles-grid, .testimonial-grid,
     .gh-current-grid, .summary-cards-grid { grid-template-columns: repeat(2, 1fr); }
+    .achievements-grid { grid-template-columns: repeat(2, 1fr); }
+    .achievement-card.featured { grid-column: span 2; }
     .edu-grid { grid-template-columns: repeat(2, 1fr); }
     .bars-grid { grid-template-columns: 1fr; }
     .contact-content { grid-template-columns: 1fr; }
@@ -3405,7 +3410,7 @@ body.light-theme .loader-text { color: #475569; }
     .home { min-height: auto; padding: 110px 0 60px; }
     .home-content .text-1 { font-size: 16px; }
     .home-content .text-2 { font-size: 38px; line-height: 1.15; }
-    .home-content .text-3 { font-size: 22px; }
+    .home-content .text-3 { font-size: 20px; }
     .text-tagline { font-size: 13px; line-height: 1.7; }
     .badge { font-size: 11px; padding: 6px 14px; }
     .image-wrapper { width: 220px; height: 220px; }
@@ -3475,7 +3480,7 @@ body.light-theme .loader-text { color: #475569; }
     .achievements-grid { grid-template-columns: 1fr; gap: 14px; }
     .achievement-card { padding: 22px 18px; }
     .achievement-card:has(> img) { padding: 0; }
-    .achievement-card > img { max-height: 240px; padding: 12px 12px 6px; }
+    .achievement-card > img { height: 180px; }
     .achievement-card:has(> img) > h3 { padding: 18px 18px 0; }
     .achievement-card:has(> img) > .ach-year { margin: 0 18px 10px; }
     .achievement-card:has(> img) > p { padding: 0 18px 22px; }
@@ -3631,7 +3636,7 @@ body.light-theme .loader-text { color: #475569; }
 /* ---- Phone (small) ---- */
 @media (max-width: 480px) {
     .home-content .text-2 { font-size: 32px; }
-    .home-content .text-3 { font-size: 18px; }
+    .home-content .text-3 { font-size: 17px; }
     .text-tagline { font-size: 12.5px; }
     .image-wrapper { width: 190px; height: 190px; }
     .floating-icon { width: 34px; height: 34px; font-size: 15px; }
