@@ -723,6 +723,7 @@ section .subtitle {
     margin: 4px 0 14px;
     font-weight: 500;
     line-height: 1.5;
+    min-height: 3em; /* Accommodates 2 lines to prevent height jumping */
 }
 
 .home-content .text-3 span.typing {
@@ -980,7 +981,8 @@ section .subtitle {
     font-weight: 700;
     margin-bottom: 18px;
     color: #fff;
-    min-height: 45px; /* Prevents height jumping during typing */
+    line-height: 1.4;
+    min-height: 2.8em; /* Accommodates 2 lines to prevent height jumping */
 }
 
 .about .right .text span.typing-2 {
