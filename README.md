@@ -9,6 +9,19 @@ A premium, high-performance, and visually stunning portfolio website designed fo
 
 ---
 
+## 👨‍💻 About Me
+
+Hi there! 👋 I'm **Shashank Trivedi**, a passionate **Full Stack Java Developer** and **Application Engineer** at Maruti Suzuki India Ltd. I specialize in building scalable enterprise systems and cloud-native applications.
+
+- 🏢 I'm currently working as an **Application Developer** at **Maruti Suzuki IT Division**.
+- ☕ My core expertise revolves around **Java 17, Spring Boot, Quarkus, React JS**, and **Node.js**.
+- ☁️ I actively design and deploy containerized microservices to **Azure AKS** using **Docker & Kubernetes**.
+- 🤖 I am officially certified as an **Oracle Certified AI Vector Search Professional 23ai**.
+- 🏆 I'm a competitive programmer with **300+ problems solved** on LeetCode & CodeChef, and recognized as a high-performer at MSIL.
+- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/strivedi4u) or via my live portfolio!
+
+---
+
 ## ✨ Key Features
 
 -   **🌌 Dynamic Hero Section**: Integrated with `Particles.js` for a cinematic background and rotating technology rings around the profile photo.
